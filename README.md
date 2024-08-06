@@ -4,4 +4,5 @@ The following notebooks contains basic
 - Regression
 - Classification
 - Clustering
-approaches to datasets. They are present as Jupyter Notebooks (ipynb) format.
+  approaches to datasets.They are present as Jupyter Notebooks (ipynb) format.
+  
