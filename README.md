@@ -1,4 +1,7 @@
-# Machine-Learning-Basic
-Contains the basic Regression, Classification, Clustering codes in ipynb (Jupyter NB) format.
+# Machine Learning and Data Science Basics
 
-I have not renamed them according to their content, will do that later. :-)..
+The following notebooks contains basic 
+- Regression
+- Classification
+- Clustering
+approaches to datasets. They are present as Jupyter Notebooks (ipynb) format.
